@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">P2:Ejercicio 1</string>
+
+    <string name="titulo1">Componentes Android</string>
+    <string name="titulo2">Cuestionario de opción múltiple</string>
+    <string name="img1">Imagen</string>
+
+    <string name="question1">Sexo</string>
+    <string name="answer1">Hombre</string>
+    <string name="answer2">Mujer</string>
+    <string name="answer3">Otro</string>
+
+    <string name="btn1">Cargar Scroll</string>
+
+</resources>
